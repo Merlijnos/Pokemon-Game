@@ -1,0 +1,30 @@
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\bin\Debug\net8.0\PokemonGame CSharp.exe
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\bin\Debug\net8.0\PokemonGame CSharp.deps.json
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\bin\Debug\net8.0\PokemonGame CSharp.runtimeconfig.json
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\bin\Debug\net8.0\PokemonGame CSharp.dll
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\bin\Debug\net8.0\PokemonGame CSharp.pdb
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\obj\Debug\net8.0\PokemonGame CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\obj\Debug\net8.0\PokemonGame CSharp.AssemblyInfoInputs.cache
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\obj\Debug\net8.0\PokemonGame CSharp.AssemblyInfo.cs
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\obj\Debug\net8.0\PokemonGame CSharp.csproj.CoreCompileInputs.cache
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\obj\Debug\net8.0\PokemonGame CSharp.sourcelink.json
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\obj\Debug\net8.0\PokemonGame CSharp.dll
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\obj\Debug\net8.0\refint\PokemonGame CSharp.dll
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\obj\Debug\net8.0\PokemonGame CSharp.pdb
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\obj\Debug\net8.0\PokemonGame CSharp.genruntimeconfig.cache
+C:\Users\remco\RiderProjects\oop\PokemonGame CSharp\obj\Debug\net8.0\ref\PokemonGame CSharp.dll
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\bin\Debug\net8.0\PokemonGame CSharp.exe
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\bin\Debug\net8.0\PokemonGame CSharp.deps.json
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\bin\Debug\net8.0\PokemonGame CSharp.runtimeconfig.json
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\bin\Debug\net8.0\PokemonGame CSharp.dll
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\bin\Debug\net8.0\PokemonGame CSharp.pdb
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\obj\Debug\net8.0\PokemonGame CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\obj\Debug\net8.0\PokemonGame CSharp.AssemblyInfoInputs.cache
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\obj\Debug\net8.0\PokemonGame CSharp.AssemblyInfo.cs
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\obj\Debug\net8.0\PokemonGame CSharp.csproj.CoreCompileInputs.cache
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\obj\Debug\net8.0\PokemonGame CSharp.sourcelink.json
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\obj\Debug\net8.0\PokemonGame CSharp.dll
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\obj\Debug\net8.0\refint\PokemonGame CSharp.dll
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\obj\Debug\net8.0\PokemonGame CSharp.pdb
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\obj\Debug\net8.0\PokemonGame CSharp.genruntimeconfig.cache
+C:\Users\merli\RiderProjects\oop\PokemonGame_CSharp\obj\Debug\net8.0\ref\PokemonGame CSharp.dll

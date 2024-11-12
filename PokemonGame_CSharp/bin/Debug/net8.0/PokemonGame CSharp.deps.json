@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PokemonGame CSharp/1.0.0": {
+        "runtime": {
+          "PokemonGame CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PokemonGame CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
